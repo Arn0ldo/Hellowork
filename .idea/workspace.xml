@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6cb19fa9-789e-4304-bdc1-fc57e334f0e1" name="Changes" comment="" />
+    <list default="true" id="6cb19fa9-789e-4304-bdc1-fc57e334f0e1" name="Changes" comment="https://github.com/Arn0ldo/Hellowork.git">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,11 +73,23 @@
       <option name="presentableId" value="Default" />
       <updated>1685661025461</updated>
       <workItem from="1685661026804" duration="591000" />
-      <workItem from="1685711400474" duration="2083000" />
+      <workItem from="1685711400474" duration="2528000" />
     </task>
+    <task id="LOCAL-00001" summary="https://github.com/Arn0ldo/Hellowork.git">
+      <created>1685715062461</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1685715062461</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="https://github.com/Arn0ldo/Hellowork.git" />
+    <option name="LAST_COMMIT_MESSAGE" value="https://github.com/Arn0ldo/Hellowork.git" />
   </component>
 </project>
